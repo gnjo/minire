@@ -26,6 +26,7 @@ img.y
 7:shinobi
 8:treasure
 9:witch
+10:city
 
 fn.q('.x').src=se[0]
 fn.q('.y').src=im[0]
