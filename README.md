@@ -2,7 +2,7 @@
 https://codepen.io/gnjo/pen/XWbKLwd
 ```
 //pug
-script(src="https://gnjo.github.io/minire/minire.js")
+script(src="https://gnjo.github.io/minire/minire.js") //pngs oggs all import by base64
 button aa
 video.x(autoplay)
 img.y
