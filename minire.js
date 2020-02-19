@@ -5,6 +5,7 @@
 2:foot
 3:open
 4:slash
+5:stair
 //im[n]
 0:bishop
 1:chest
