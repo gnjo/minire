@@ -6,6 +6,7 @@ $se_slash=
 $se_damage=
 $se_foot=
 $se_crystal=
+$se_open=
 
 //npc
 $npc_witch=
