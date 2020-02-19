@@ -17,5 +17,8 @@ $npc_bishop=
 $npc_darkmage=
 $npc_shinobi=
 $npc_crusader=
+$npc_city=
+$npc_chest=
+$npc_treasure=
 }}}
 ```
