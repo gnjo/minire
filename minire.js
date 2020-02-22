@@ -1,3 +1,12 @@
+ /*usege
+button aa
+video.x(autoplay)
+img.y 
+///
+ let fn={};fn.q=(s)=>{return document.querySelector(s)}
+ fn.q('.x').src=se[0]//
+ fn.q('.y').src=im[0]//
+ */
 /*
 //se[n]
 0:crystal
@@ -95,13 +104,4 @@ let im=[img_bishop,img_chest,img_crusader,img_darkmage,img_elf
  root.se=se
  root.im=im
  ;
- /*usege
-button aa
-video.x(autoplay)
-img.y 
-///
- let fn={};fn.q=(s)=>{return document.querySelector(s)}
- fn.q('.x').src=se[0]//0-4
- fn.q('.y').src=im[0]//0-9
- */
 })(this); 
