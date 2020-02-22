@@ -1,11 +1,13 @@
  /*usege
+//pug
+script(src="https://gnjo.github.io/minire/minire.js?v=1")
 button aa
-video.x(autoplay)
-img.y 
+video.se(autoplay style="display:none")
+img.im
 ///
- let fn={};fn.q=(s)=>{return document.querySelector(s)}
- fn.q('.x').src=se[0]//
- fn.q('.y').src=im[0]//
+let fn={};fn.q=(s)=>{return document.querySelector(s)}
+ fn.q('.se').src=se[0]//
+ fn.q('.im').src=im[0]//
  */
 /*
 //se[n]
