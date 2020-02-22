@@ -4,10 +4,11 @@ https://codepen.io/gnjo/pen/XWbKLwd
 //pug
 script(src="https://gnjo.github.io/minire/minire.js") //pngs oggs all import by base64
 button aa
-video.x(autoplay)
-img.y
+video.se(autoplay)
+img.im
 ```
 ```
+/*
 //se[n]
 0:crystal
 1:damage
@@ -15,7 +16,6 @@ img.y
 3:open
 4:slash
 5:stair
-
 //im[n]
 0:bishop
 1:chest
@@ -28,7 +28,8 @@ img.y
 8:treasure
 9:witch
 10:city
-
-fn.q('.x').src=se[0]
-fn.q('.y').src=im[0]
+*/
+ let fn={};fn.q=(s)=>{return document.querySelector(s)}
+ fn.q('.se').src=se[0]//
+ fn.q('.im').src=im[0]//
 ```
