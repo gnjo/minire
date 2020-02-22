@@ -1,10 +1,10 @@
 # miniresource
-https://codepen.io/gnjo/pen/XWbKLwd
+demo https://codepen.io/gnjo/pen/XWbKLwd
 ```
 //pug
-script(src="https://gnjo.github.io/minire/minire.js") //pngs oggs all import by base64
+script(src="https://gnjo.github.io/minire/minire.js?v=1")
 button aa
-video.se(autoplay)
+video.se(autoplay style="display:none")
 img.im
 ```
 ```
