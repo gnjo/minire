@@ -100,6 +100,7 @@ button aa
 video.x(autoplay)
 img.y 
 ///
+ let fn={};fn.q=(s)=>{return document.querySelector(s)}
  fn.q('.x').src=se[0]//0-4
  fn.q('.y').src=im[0]//0-9
  */
